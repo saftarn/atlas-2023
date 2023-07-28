@@ -1,0 +1,40 @@
+{
+	"id": -1,
+	"name": "Melina",
+	"description": "Drawing of Destiny's wife Melina.\nShe is depicted wearing a midsummer flower crown and a swedish flag.",
+	"links": {},
+	"path": {
+		"250": [
+			[
+				99,
+				-181
+			],
+			[
+				119,
+				-180
+			],
+			[
+				121,
+				-142
+			],
+			[
+				99,
+				-143
+			],
+			[
+				99,
+				-164
+			],
+			[
+				99,
+				-173
+			]
+		]
+	},
+	"center": {
+		"250": [
+			110,
+			-155
+		]
+	}
+}
